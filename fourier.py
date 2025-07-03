@@ -86,20 +86,6 @@ def get_coefficient(samples, t_step, n):
     return cn
 
 
-"""
-samples = []
-for i in range(100):
-    t = i / 100
-    c = ComplexNum(math.cos(2 * math.pi * t), 0)
-    samples.append(c)
-
-
-coef = get_coefficient(samples, 1 / 100, -1)
-
-print(coef.r, coef.theta)
-"""
-
-
 def convert_samples(x_samples, y_samples):
     complex_samples = []
     for x, y in zip(x_samples, y_samples):
