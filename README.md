@@ -10,4 +10,4 @@
 
 This uses complex fourier series to convert an svg image into a sum of trigonometric terms
 
-By far the best explanation of how this work is [this video](https://www.youtube.com/watch?v=r6sGWTCMz2k) by 3blue1brown.
+By far the best explanation of how this works is [this video](https://www.youtube.com/watch?v=r6sGWTCMz2k) by 3blue1brown.
